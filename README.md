@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivo</h1>
 <h3 align="center">A passionate Software Engineer from VietNam</h3> 
-<h5>                 Email: Ivo061132@gmail.com</h5>
+<h5 style="text-align: right;">Email: Ivo061132@gmail.com</h5>
 
 
 <h3 align="left">Connect with me:</h3>
